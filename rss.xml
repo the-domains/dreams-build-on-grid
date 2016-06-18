@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dreams.Build on Grid]]></title>
+        <description><![CDATA[Dreams.Build on Grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 06:53:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Two-Stage funding?]]></title>
+            <description><![CDATA[<article><h1>What is Two-Stage funding?</h1><p>Two-Stage funding is a revolutionary new funding model. Current crowdfunding platforms support either a “all-or-nothing” funding model where if the project creator does not hit their funding goal they simply do not get their funds, or a “Supportive” funding model where projects have a goal to aim for but even if the project creators do not achieve their goal they get to keep any money they raised. What if, there was a platform that provided both of these models as a single hybrid model? Welcome to Two-Stage funding. Dreams.build is the first crowdfunding platform to introduce such a model.</p></article>]]></description>
+            <link>undefinedwhat-is-two-stage-funding/index.html</link>
+            <guid isPermaLink="false">df7fe1d1-1c5f-4fc8-83c3-c1802b5b4620</guid>
+            <pubDate>Sat, 18 Jun 2016 06:51:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
