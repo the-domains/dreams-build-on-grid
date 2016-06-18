@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dreams.Build on Grid]]></title>
-        <description><![CDATA[Dreams.Build on Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Dreams.Build]]></title>
+        <description><![CDATA[Dreams.Build]]></description>
+        <link>https://thegrid.ai/dreams-build-on-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 06:53:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 18 Jun 2016 06:54:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dreams-build-on-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Crowdfunding and how do the equity and reward-based models differ?]]></title>
+            <description><![CDATA[<article><h1>What is Crowdfunding and how do the equity and reward-based models differ?</h1><p>To know if crowdfunding is right for you it is important to know exactly what crowdfunding is and isn’t. Crowdfunding gives innovators the ability to seek funding for their dream idea. At its basic, it is a method of having multiple people donate small sums of money to add up to a large sum of money. For example: if you need 10 dollars for a meal. You could ask a friend for 10 dollars or ask ten friends for one dollar. The latter is crowdfunding in a nutshell. The concept of crowdfunding has been around for centuries. Today, There are different types of crowdfunding such as equity funding where equity portions of your dream are shared among contributing people. The other form of funding is a reward-based approach that differs from equity-based in that instead of giving up a portion of your dream, you keep all of your dream but give out rewards (not equity) to the people who sponsor your project.</p></article>]]></description>
+            <link>https://thegrid.ai/dreams-build-on-grid/what-is-crowdfunding-and-how-do-the-equity-and-reward-based/index.html</link>
+            <guid isPermaLink="false">13fff48c-557a-47d9-9a84-2b4d10c3a923</guid>
+            <pubDate>Sat, 18 Jun 2016 06:53:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Two-Stage funding?]]></title>
             <description><![CDATA[<article><h1>What is Two-Stage funding?</h1><p>Two-Stage funding is a revolutionary new funding model. Current crowdfunding platforms support either a “all-or-nothing” funding model where if the project creator does not hit their funding goal they simply do not get their funds, or a “Supportive” funding model where projects have a goal to aim for but even if the project creators do not achieve their goal they get to keep any money they raised. What if, there was a platform that provided both of these models as a single hybrid model? Welcome to Two-Stage funding. Dreams.build is the first crowdfunding platform to introduce such a model.</p></article>]]></description>
-            <link>undefinedwhat-is-two-stage-funding/index.html</link>
+            <link>https://thegrid.ai/dreams-build-on-grid/what-is-two-stage-funding/index.html</link>
             <guid isPermaLink="false">df7fe1d1-1c5f-4fc8-83c3-c1802b5b4620</guid>
             <pubDate>Sat, 18 Jun 2016 06:51:43 GMT</pubDate>
         </item>
