@@ -1,7 +1,7 @@
 name: Dreams.Build on Grid
 favicon: null
-layout_spectrum: 0.11985206184908748
-typography_spectrum: 0.8863202752545476
+layout_spectrum: 1
+typography_spectrum: 1
 title: Dreams.Build
 cta:
   domain: null
