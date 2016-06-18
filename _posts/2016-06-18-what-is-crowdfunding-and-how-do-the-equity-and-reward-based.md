@@ -17,15 +17,15 @@ description: >-
   funding is a reward-based approach that differs from equity-based in that
   instead of giving up a portion of your dream, you keep all of your dream but
   give out rewards (not equity) to the people who sponsor your project.
-datePublished: '2016-06-18T06:53:48.054Z'
-dateModified: '2016-06-18T06:53:47.733Z'
+datePublished: '2016-06-18T07:00:21.217Z'
+dateModified: '2016-06-18T07:00:13.292Z'
 title: What is Crowdfunding and how do the equity and reward-based models differ?
 author: []
+sourcePath: >-
+  _posts/2016-06-18-what-is-crowdfunding-and-how-do-the-equity-and-reward-based.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-18-what-is-crowdfunding-and-how-do-the-equity-and-reward-based.md
 url: what-is-crowdfunding-and-how-do-the-equity-and-reward-based/index.html
 _type: Article
 
@@ -60,6 +60,7 @@ Once you can tackle those three questions, you should seriously consider reward-
 
 Please do not hesitate to reach out to our team with further inquiries via social media on [Twitter][0] or [Facebook][1]!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99112e44-5936-47f8-8332-646a898c6bf5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43262d9d-175f-4343-a24c-f522d521c0f3.jpg)
 
 [0]: https://twitter.com/DreamsdotBuild
 [1]: https://www.facebook.com/dreamsdotbuild
